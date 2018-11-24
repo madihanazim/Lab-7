@@ -39,19 +39,30 @@ a.User can post a new photo to their feed b.User can add a comment to a photo c.
 
 Screen Archetypes:
 
-a.Login Screen User can login b.Registration Screen User can create a new account c.Stream User can view a feed of photos User can double tap a photo to like d.Creation User can post a new photo to their feed e.Search User can search for other users User can follow/unfollow another user
+a.Login Screen User can login 
+b.Registration Screen User can create a new account 
+c.Stream User can view a feed of photos User can double tap a photo to like 
+d.Creation User can post a new photo to their feed 
+e.Search User can search for other users User can follow/unfollow another user
 
 Navigation:
 
 3.a.Tab Navigation (Tab to Screen)
 
-a.Home Feed b.Search User c.Post a Photo
+a.Home Feed 
+b.Search User 
+c.Explore
+d.Notifications
 
 3.b.Flow Navigation (Screen to Screen)
 
 List all your screens from above. Under each screen, list the screens you can navigate to from that screen.
 
-a.Login Screen => Home b.Registration Screen => Home c.Stream Screen => user can scroll through some important resources in a list => Home (after you finish posting the photo) => In the actual wireframe, you will need multiple screens to represent the creation process to add filters, etc. d.Search Screen => None
+a.Login Screen => Home 
+b.Registration Screen => Home 
+d.Search Screen => None
+e.Notifications
+e.Messages
 
 Wireframe Video Walkthrough:
 
