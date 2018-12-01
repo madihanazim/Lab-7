@@ -24,18 +24,27 @@ After both of the users are feeling comfortable, they will decide the next step 
 User Stories:
 
 a.User can create a new account
-b. User can login
+b.User can login
 c.User put some berief intoduction about him/herself
 d.User can search for other users
 e.User can like a photo
 f.User can follow/unfollow another user
 e.User can view a feed of photos
 f.Unlike Tinder, people swipe right or left to meet people
-online base on their profile and photo.
+  online base on their profile and photo.
 
 Optional Nice-to-have Stories
 
-a.User can post a new photo to their feed b.User can add a comment to a photo c.User can tap a photo to view a more detailed photo screen with comments d.User can see trending photos e.User can search for photos by a hashtag f.User can see notifications when their photo is liked or they are followed g.User can see their profile page with their photos h.User can see a list of their followers i.User can see a list of their following j.User can view other user’s profiles and see their photo feed
+a.User can post a new photo to their feed 
+b.User can add a comment to a photo 
+c.User can tap a photo to view a more detailed photo screen with comments 
+d.User can see trending photos 
+e.User can search for photos by a hashtag 
+f.User can see notifications when their photo is liked or they are followed 
+g.User can see their profile page with their photos 
+h.User can see a list of their followers 
+i.User can see a list of their following 
+j.User can view other user’s profiles and see their photo feed
 
 Screen Archetypes:
 
